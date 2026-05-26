@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsonnect",
+        "uuid": 13153728,
+        "checksum": "6oaq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
